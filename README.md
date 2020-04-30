@@ -58,4 +58,4 @@ Veja também esse [vídeo](https://youtu.be/UygqW2eBJJA) com a demonstração da
 
 ---
 
-<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/christyanbrayan" target="_blank">christyanbrayan</a> </h4>
+<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/herrmannjob" target="_blank">herrmannjob</a> </h4>
