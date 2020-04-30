@@ -45,7 +45,6 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
     <img alt="" title="" src="imgs/print-insomnia.png">
 </p>
 
-Veja também esse [vídeo](https://youtu.be/UygqW2eBJJA) com a demonstração das versões web e mobile rodando localmente.
 
 ---
 
@@ -53,8 +52,6 @@ Veja também esse [vídeo](https://youtu.be/UygqW2eBJJA) com a demonstração da
 
 **Instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat**
 
-## Licença
-[MIT](https://github.com/christyanbrayan/be-the-hero/blob/master/LICENSE)
 
 ---
 
